@@ -4,3 +4,5 @@ tasks in node-, edge- and graph-level, GROVER can learn rich structural and sema
 2. NN Pytorch
 3. GCN DeepChem
 4. Keras Pytorch
+5. Feed forward NN with morgan fingerprint
+6. RNN LSTM
